@@ -1,2 +1,31 @@
 # RFDos-Scanner
+
 Response Filter Denial of Service (RFDoS) Experimental Scanner
+
+> Note:
+This is an experiment. Don't expect to find perfect work here.
+
+Read more about Response Filter Denial of Service (RFDoS) in this blog post: [Response Filter Denial of Service (RFDoS): shut down a website by triggering WAF rule](https://blog.sicuranext.com/response-filter-denial-of-service-a-new-way-to-shutdown-a-website/).
+
+Get Started 🎉
+----------
+
+```console
+nuclei -t rfdos.yaml -u https://target-website.com/
+```
+
+Changelog 📌
+-------
+
+Detailed changes for each release are documented in the [release notes](https://github.com/edoardottt/RFDos-Scanner/releases).
+
+Contributing 🛠
+-------
+
+Just open an [issue](https://github.com/edoardottt/RFDos-Scanner/issues) / [pull request](https://github.com/edoardottt/RFDos-Scanner/pulls).
+
+License 📝
+-------
+
+This repository is under [MIT License](https://github.com/edoardottt/RFDos-Scanner/blob/main/LICENSE).  
+[edoardoottavianelli.it](https://www.edoardoottavianelli.it) to contact me.
