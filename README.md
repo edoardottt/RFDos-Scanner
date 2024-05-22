@@ -2,10 +2,10 @@
 
 Response Filter Denial of Service (RFDoS) Experimental Scanner
 
+Read more about Response Filter Denial of Service (RFDoS) in this blog post: [Response Filter Denial of Service (RFDoS): shut down a website by triggering WAF rule](https://blog.sicuranext.com/response-filter-denial-of-service-a-new-way-to-shutdown-a-website/).
+
 > Note:
 This is an experiment. Don't expect to find perfect work here.
-
-Read more about Response Filter Denial of Service (RFDoS) in this blog post: [Response Filter Denial of Service (RFDoS): shut down a website by triggering WAF rule](https://blog.sicuranext.com/response-filter-denial-of-service-a-new-way-to-shutdown-a-website/).
 
 Get Started 🎉
 ----------
