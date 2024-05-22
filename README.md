@@ -10,6 +10,8 @@ Read more about Response Filter Denial of Service (RFDoS) in this blog post: [Re
 Get Started 🎉
 ----------
 
+[Install Nuclei](https://github.com/projectdiscovery/nuclei?tab=readme-ov-file#install-nuclei) and execute:
+
 ```console
 nuclei -t rfdos.yaml -u https://target-website.com/
 ```
