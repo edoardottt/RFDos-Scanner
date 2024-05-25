@@ -15,6 +15,10 @@ Get Started 🎉
 ```console
 nuclei -t rfdos.yaml -u https://target-website.com/
 ```
+or
+```console
+nuclei -t rfdos.yaml -l targets.txt
+```
 
 Changelog 📌
 -------
